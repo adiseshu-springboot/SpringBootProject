@@ -9,5 +9,6 @@ public class SampleRunner implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Sample Runner...");		
+		System.out.println("Sample Runner is updated!");
 	}
 }
